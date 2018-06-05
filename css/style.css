@@ -1440,6 +1440,23 @@ a {
     .feature-detail {
         padding: 0px 0px 50px 30px !important;
     }
+    .mobile-pdr-btm{
+        padding-bottom: 0px;
+    }
+    .moblie-mgr-btm{
+        margin-bottom: 0px!important;
+    }
+    .m-padding-t-0{
+        padding-top: 0px;
+    }
+    .walk-in-mgr-b{
+        margin-bottom: 0px;
+    }
+    .mobile-center-footer{
+        max-width: 200px;
+        margin: 0 auto;
+        text-align: center;
+    }
 }
 
 @media (min-width: 768px) {
